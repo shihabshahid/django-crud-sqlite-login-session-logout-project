@@ -1,0 +1,1 @@
+# django-crud-sqlite-login-session-logout-project
